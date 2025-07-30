@@ -4,7 +4,7 @@
 
 Tyler bit his lip. If he'd known the due diligence process would be such a pain in the ass, he'd never have considered the buyout.
 
-"Yes," he said. "We've found it to be incredibly soothing."
+"Yes," he said. "It's incredibly soothing."
 
 The prick in the suit shook his head and pointed at a line item in the financial statement. "So's _Sesame Street_, and that's public domain. Your licensing costs for _Cocomelon_ are over fifty grand a year."
 
@@ -20,7 +20,7 @@ The prick continued scanning the financial statement and burst out laughing. "Go
 
 Tyler felt himself getting hot. "It's organic. We need the certification."
 
-"You don't need goat milk to be certified," the prick said. "Organic soy and mealworms will do fine."
+"You don't need goat milk to be certified. Organic soy and mealworms will do fine."
 
 "It's part of our brand. Mary's Small Batch Maidens is a premium product."
 
@@ -28,6 +28,6 @@ Tyler felt himself getting hot. "It's organic. We need the certification."
 
 "Screw you," Tyler said. He didn't have an actual retort - truth be told, his business was indeed completely fucked. That's why he was sitting across from this Unimaiden finance prick in the first place. He sat in silence as the suited dickhead continued scanning the statement, chuckling and shaking his head.
 
-After fifteen uncomfortable minutes, the prick finally put down the stack of paper. "Well there's a ton of inadvisable costs," he said, "but I don't see anything illegal. Shall we tour the floor?"
+After fifteen uncomfortable minutes, the prick finally put down the stack of paper. "Well there's a ton of inadvisable costs, but I don't see anything illegal. Shall we tour the floor?"
 
 "Yes," Tyler said, eager to get out of his office. "Follow me."

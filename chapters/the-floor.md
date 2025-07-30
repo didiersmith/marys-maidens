@@ -2,11 +2,11 @@
 
 "Morning, Mr. Miskewitz," the security guard greeted him as they entered the foyer. "Who have we got here?"
 
-"He's from Unimaiden," Tyler said and nodded at the prick. "Our esteemed guest."
+"He's from Unimaiden," Tyler said, and nodded at the prick. "Our esteemed guest."
 
 "Of course," the security guard smiled. "You don't happen to have ID on you?" he asked the esteemed guest.
 
-The security guard hummed a little as he copied the prick's ID number into the visitor log. He didn't seem too stressed - he'd probably already figured out that the warehouse would still need to be secured post-merger. Probably even more so. 
+The security guard hummed a little as he copied the prick's ID number into the visitor log. He didn't seem too stressed - he'd probably already realized that the facility would still need security post-merger. Likely even more. 
 
 "Here you go," the guard said as he handed the prick's driver's license back. "Hope you like what you see."
 
@@ -36,11 +36,11 @@ The prick burst out laughing. "Eight hundred individual wombs! You never heard o
 
 Tyler bit his lip and led the prick past the mismatched racks of single wombs. They really had all been top-of-the-line - back when they were new. Now that the oldest generations were long past their warranty periods and one of the main womb vendors had gone out of business, an increasing fraction of the equipment was held together with Flex-Seal and crossed fingers. Still - if it ain't broke...
 
-The delivery room was empty - still twelve weeks until Batch 46 was ready. Then it would be a madhouse for five days - the place would be crawling with temps, running back and forth, cracking open the eggs and hooking the bubs up. Gastric tube, catheter, poop chute, _Cocomelon_. Not complicated, but someone always managed to screw it up. Historical data indicated an expected 95% yield - 760 bubs for the nursery.
+The delivery room was empty - still twelve weeks until Batch 46 was ready. Then it would be a madhouse for five days - the place would be crawling with temps running back and forth, cracking open the eggs and hooking the bubs up. Gastric tube, catheter, poop chute, _Cocomelon_. Not complicated, but someone always managed to screw it up. Historical data indicated an expected 95% yield - 760 bubs for the nursery.
 
 "Looks clean," remarked the prick. No other comments.
 
-The nursery was bustling. Batch 45 was in that awkward phase where some of them were starting to crawl, but others were content to lie on their backs all day, happily absorbing the hypnotic melodies and visuals of _Cocomelon_. Waste tubes had to come out of the crawlers, or they'd get tangled. Dozens of nurses in purple scrubs chased after the crawlers, keeping them from hurting themselves, changing their diapers, and pumping fortified goat milk into their gastric tubes.
+The nursery was bustling. Batch 45 was in that awkward phase where some of them were starting to crawl, but others were content to lie on their backs all day, happily absorbing the hypnotic melodies and visuals of _Cocomelon_. Waste tubes had to come out of the crawlers, or they'd get tangled. Dozens of nurses in purple scrubs chased after the crawlers, keeping them from hurting themselves, changing their diapers, and pumping fortified organic goat milk into their gastric tubes.
 
 "They're differentiating," the prick remarked. "Looks labour intensive."
 
@@ -66,7 +66,7 @@ The prick laughed and changed the subject. "Do you rotate the staff?"
 
 Tyler flushed. "Security cameras," he said. "Facial recognition software."
 
-The prick nodded and moved on, striding into the nursery floor. Thank God he didn't notice Tyler's embarrassment. It wasn't a total lie - the security cameras really did have facial recognition software. Of course, the employees had thrown a shit fit when he'd installed it a decade ago. It had been disabled ever since.
+The prick nodded. "Regulations are written in blood." He moved on, striding onto the nursery floor. Thank God he didn't notice Tyler's embarrassment. It wasn't a total lie - the security cameras really did have facial recognition software. Of course, the employees had thrown a shit fit when he'd installed it a decade ago. It had been disabled ever since.
 
 "Nice genetics," the prick remarked, leaning over one of the items. "Public domain?"
 

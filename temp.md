@@ -1,7 +1,6 @@
 ---
 title: "Mary's Small Batch Maidens"
-author: "By Didier Smith"
-date: "July 29, 2025"
+author: "by Didier Smith"
 geometry: margin=1.5in
 fontsize: 16pt
 titlepage: true
@@ -22,7 +21,7 @@ mainfont: "Times New Roman"
 
 Tyler bit his lip. If he'd known the due diligence process would be such a pain in the ass, he'd never have considered the buyout.
 
-"Yes," he said. "We've found it to be incredibly soothing."
+"Yes," he said. "It's incredibly soothing."
 
 The prick in the suit shook his head and pointed at a line item in the financial statement. "So's _Sesame Street_, and that's public domain. Your licensing costs for _Cocomelon_ are over fifty grand a year."
 
@@ -38,7 +37,7 @@ The prick continued scanning the financial statement and burst out laughing. "Go
 
 Tyler felt himself getting hot. "It's organic. We need the certification."
 
-"You don't need goat milk to be certified," the prick said. "Organic soy and mealworms will do fine."
+"You don't need goat milk to be certified. Organic soy and mealworms will do fine."
 
 "It's part of our brand. Mary's Small Batch Maidens is a premium product."
 
@@ -46,7 +45,7 @@ Tyler felt himself getting hot. "It's organic. We need the certification."
 
 "Screw you," Tyler said. He didn't have an actual retort - truth be told, his business was indeed completely fucked. That's why he was sitting across from this Unimaiden finance prick in the first place. He sat in silence as the suited dickhead continued scanning the statement, chuckling and shaking his head.
 
-After fifteen uncomfortable minutes, the prick finally put down the stack of paper. "Well there's a ton of inadvisable costs," he said, "but I don't see anything illegal. Shall we tour the floor?"
+After fifteen uncomfortable minutes, the prick finally put down the stack of paper. "Well there's a ton of inadvisable costs, but I don't see anything illegal. Shall we tour the floor?"
 
 "Yes," Tyler said, eager to get out of his office. "Follow me."
 
@@ -54,11 +53,11 @@ After fifteen uncomfortable minutes, the prick finally put down the stack of pap
 
 "Morning, Mr. Miskewitz," the security guard greeted him as they entered the foyer. "Who have we got here?"
 
-"He's from Unimaiden," Tyler said and nodded at the prick. "Our esteemed guest."
+"He's from Unimaiden," Tyler said, and nodded at the prick. "Our esteemed guest."
 
 "Of course," the security guard smiled. "You don't happen to have ID on you?" he asked the esteemed guest.
 
-The security guard hummed a little as he copied the prick's ID number into the visitor log. He didn't seem too stressed - he'd probably already figured out that the warehouse would still need to be secured post-merger. Probably even more so. 
+The security guard hummed a little as he copied the prick's ID number into the visitor log. He didn't seem too stressed - he'd probably already realized that the facility would still need security post-merger. Likely even more. 
 
 "Here you go," the guard said as he handed the prick's driver's license back. "Hope you like what you see."
 
@@ -88,11 +87,11 @@ The prick burst out laughing. "Eight hundred individual wombs! You never heard o
 
 Tyler bit his lip and led the prick past the mismatched racks of single wombs. They really had all been top-of-the-line - back when they were new. Now that the oldest generations were long past their warranty periods and one of the main womb vendors had gone out of business, an increasing fraction of the equipment was held together with Flex-Seal and crossed fingers. Still - if it ain't broke...
 
-The delivery room was empty - still twelve weeks until Batch 46 was ready. Then it would be a madhouse for five days - the place would be crawling with temps, running back and forth, cracking open the eggs and hooking the bubs up. Gastric tube, catheter, poop chute, _Cocomelon_. Not complicated, but someone always managed to screw it up. Historical data indicated an expected 95% yield - 760 bubs for the nursery.
+The delivery room was empty - still twelve weeks until Batch 46 was ready. Then it would be a madhouse for five days - the place would be crawling with temps running back and forth, cracking open the eggs and hooking the bubs up. Gastric tube, catheter, poop chute, _Cocomelon_. Not complicated, but someone always managed to screw it up. Historical data indicated an expected 95% yield - 760 bubs for the nursery.
 
 "Looks clean," remarked the prick. No other comments.
 
-The nursery was bustling. Batch 45 was in that awkward phase where some of them were starting to crawl, but others were content to lie on their backs all day, happily absorbing the hypnotic melodies and visuals of _Cocomelon_. Waste tubes had to come out of the crawlers, or they'd get tangled. Dozens of nurses in purple scrubs chased after the crawlers, keeping them from hurting themselves, changing their diapers, and pumping fortified goat milk into their gastric tubes.
+The nursery was bustling. Batch 45 was in that awkward phase where some of them were starting to crawl, but others were content to lie on their backs all day, happily absorbing the hypnotic melodies and visuals of _Cocomelon_. Waste tubes had to come out of the crawlers, or they'd get tangled. Dozens of nurses in purple scrubs chased after the crawlers, keeping them from hurting themselves, changing their diapers, and pumping fortified organic goat milk into their gastric tubes.
 
 "They're differentiating," the prick remarked. "Looks labour intensive."
 
@@ -118,7 +117,7 @@ The prick laughed and changed the subject. "Do you rotate the staff?"
 
 Tyler flushed. "Security cameras," he said. "Facial recognition software."
 
-The prick nodded and moved on, striding into the nursery floor. Thank God he didn't notice Tyler's embarrassment. It wasn't a total lie - the security cameras really did have facial recognition software. Of course, the employees had thrown a shit fit when he'd installed it a decade ago. It had been disabled ever since.
+The prick nodded. "Regulations are written in blood." He moved on, striding onto the nursery floor. Thank God he didn't notice Tyler's embarrassment. It wasn't a total lie - the security cameras really did have facial recognition software. Of course, the employees had thrown a shit fit when he'd installed it a decade ago. It had been disabled ever since.
 
 "Nice genetics," the prick remarked, leaning over one of the items. "Public domain?"
 
@@ -204,7 +203,7 @@ Tyler was taken aback. The matronly old lady didn't seem like the type. "Your gi
 
 "Everyone names them."
 
-"No way, Rose! You don't name them! Everyone knows that! ISO 36363!"
+"No way, Rose! You don't name them! Everyone knows that - ISO 36363!"
 
 The old nurse snarled and pushed herself out of her chair and onto her feet. "Damn you and your ISO 36363, Tyler!" she shouted, pointing across the desk at him. "We've all talked. If you don't give us all back our girls, we're going to unionize."
 
@@ -234,7 +233,7 @@ She looked down again and closed her eyes. She stood there in silence for ten lo
 
 The defeated old lady shuffled out his door.
 
-Tyler leaned back in his chair and breathed a sigh of relief. Fuck, what a day. Nurses. Hayley and Elizabeth. What next?
+Tyler leaned back in his chair and breathed a sigh of relief. Fuck, what a morning.
 
 ## 4. Finnigan's Roadhouse
 
@@ -316,5 +315,5 @@ He looked down and saw the handle of his steak knife, protruding from his gut. H
 
 Fuck, that was a lot of blood. The world started to spin. He stumbled, fell to his knees, and collapsed.
 
-ISO goddamn 36363. He really should have enforced it. The workplace safety guys were always telling him, "regulations are written in blood." Now he knew what they meant.
+ISO goddamn 36363. Written in blood. Now he knew what the prick had meant.
 

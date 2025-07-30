@@ -1,7 +1,6 @@
 ---
 title: "Mary's Small Batch Maidens"
-author: "By Didier Smith"
-date: "July 29, 2025"
+author: "by Didier Smith"
 geometry: margin=1.5in
 fontsize: 16pt
 titlepage: true

@@ -78,4 +78,4 @@ He looked down and saw the handle of his steak knife, protruding from his gut. H
 
 Fuck, that was a lot of blood. The world started to spin. He stumbled, fell to his knees, and collapsed.
 
-ISO goddamn 36363. He really should have enforced it. The workplace safety guys were always telling him, "regulations are written in blood." Now he knew what they meant.
+ISO goddamn 36363. Written in blood. Now he knew what the prick had meant.
