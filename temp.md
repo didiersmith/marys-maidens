@@ -221,7 +221,7 @@ Tyler was taken aback. The matronly old lady didn't seem like the type. "Your gi
 
 The old nurse snarled and pushed herself out of her chair and onto her feet. "Damn you and your ISO 36363, Tyler!" she shouted, pointing across the desk at him. "We've all talked. If you don't give us all back our girls, we're going to unionize."
 
-The colour drained from Tyler's face. If anything could sink this deal faster than an ISO 36363 violation, it was a union. He took a deep breath. Tried to remember his negotiation course from his MBA, all those years ago. This wasn't the time for rash behaviour.
+The colour drained from Tyler's face. If anything could sink this deal faster than an ISO 36363 violation, it was a union. He took a deep breath. Tried to remember that negotiation class he'd taken, all those years ago. This wasn't the time to act rashly.
 
 "Rose," he said. "Sit down. Do you know how screwed this business is?"
 
@@ -268,7 +268,9 @@ _Crunch, crunch._ Tyler looked up from his phone as the sound of peanut shells b
 
 "You got it."
 
-He put his phone down next to his plate so he could continue reading the news as he cut up his ribeye. Someone had been murdered in the next suburb over. The article was scant on details.
+He put his phone down next to his plate so he could continue reading the news as he cut up his ribeye. He'd obsessively followed Unimaiden for the first few months after the close. They'd started the girls on hormones immediately. Dragged maturation down to twelve and sold off the older batches. Eventually, he couldn't bring himself to read any more updates and had turned to reading local gossip instead.
+
+Hm. Looked like someone had been murdered in the next suburb over. Single man, fifties, subjects at large. Much more interesting.
 
 _Crunch, crunch._ Ah, his Coors. Eyes glued to his phone, he reached over expectantly but his hand met nothing but air.
 

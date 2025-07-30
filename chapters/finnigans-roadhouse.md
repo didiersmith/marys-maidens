@@ -14,7 +14,9 @@ _Crunch, crunch._ Tyler looked up from his phone as the sound of peanut shells b
 
 "You got it."
 
-He put his phone down next to his plate so he could continue reading the news as he cut up his ribeye. Someone had been murdered in the next suburb over. The article was scant on details.
+He put his phone down next to his plate so he could continue reading the news as he cut up his ribeye. He'd obsessively followed Unimaiden for the first few months after the close. They'd started the girls on hormones immediately. Dragged maturation down to twelve and sold off the older batches. Eventually, he couldn't bring himself to read any more updates and had turned to reading local gossip instead.
+
+Hm. Looked like someone had been murdered in the next suburb over. Single man, fifties, subjects at large. Much more interesting.
 
 _Crunch, crunch._ Ah, his Coors. Eyes glued to his phone, he reached over expectantly but his hand met nothing but air.
 
