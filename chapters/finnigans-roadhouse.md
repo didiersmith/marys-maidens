@@ -16,7 +16,7 @@ _Crunch, crunch._ Tyler looked up from his phone as the sound of peanut shells b
 
 He put his phone down next to his plate so he could continue reading the news as he cut up his ribeye. He'd obsessively followed Unimaiden for the first few months after the close. They'd started the girls on hormones immediately. Dragged maturation down to twelve and sold off the older batches. Eventually, he couldn't bring himself to read any more updates and had turned to reading local gossip instead.
 
-Hm. Looked like someone had been murdered in the next suburb over. Single man, fifties, subjects at large. Much more interesting.
+Hm. Looked like someone had been murdered in the next suburb over. Single man, fifties, stabbed. Subjects at large. Much more interesting.
 
 _Crunch, crunch._ Ah, his Coors. Eyes glued to his phone, he reached over expectantly but his hand met nothing but air.
 
@@ -50,13 +50,13 @@ The girls nodded.
 
 "Elizabeth," said the blonde.
 
-Goddamn it, Rose. What had she done?
+Goddamn it, Rose. What have you done?
 
 "I don't know where she is," he said, scooting back along the bench to the diner wall. Where was that goddamn waitress with his Coors? "All employee data belongs to Unimaiden now."
 
 Elizabeth slid in closer, pushing the knife harder into his rib. "What a shame," she said. "Guess you're a dead end, then."
 
-Fuck this. He hadn't slaved his ass off for thirty years to become a 'dead end.'  "Wait!" he said, trying to conceal his desperation. "I have a backup!"
+Fuck this, she was insane. He hadn't slaved his ass off for thirty years to become a 'dead end.' "Wait!" he said, trying to conceal his desperation. "I have a backup!"
 
 "Where?" Hayley asked.
 

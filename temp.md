@@ -15,9 +15,6 @@ mainfont: "Times New Roman"
 \pagenumbering{gobble}
 \pagebreak
 \pagenumbering{arabic}
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
 
 ## 1. Due Diligence
 
@@ -29,7 +26,7 @@ Tyler bit his lip. If he'd known the due diligence process would be such a pain 
 
 The prick in the suit shook his head and pointed at a line item in the financial statement. "So's _Sesame Street_, and that's public domain. Your licensing costs for _Cocomelon_ are over fifty grand a year."
 
-What an idiot. His MBA program may have taught him how to read spreadsheets, but he clearly didn't know the first thing about the industry.
+What an idiot. His MBA program may have taught him how to read spreadsheets, but he clearly didn't understand the first thing about the industry.
 
 "No one uses _Sesame Street_," Tyler said. "It's insufficiently captivating. The increased tranq costs alone will exceed 50k - not to mention the impact on the final product."
 
@@ -37,24 +34,21 @@ What an idiot. His MBA program may have taught him how to read spreadsheets, but
 
 Which is why your products are shit, Tyler thought. "Well, I guess you're the expert. Feel free to change it once the deal closes."
 
-The prick continued scanning the financial statement and burst out laughing. "Goat's milk? Jesus Christ, Mr. Miskewitz. No wonder you're going under. Fuck me, three million a year?"
+The prick continued scanning the financial statement and burst out laughing. "Goat milk? Jesus Christ, Mr. Miskewitz. No wonder you're going under. Fuck me, three million a year?"
 
 Tyler felt himself getting hot. "It's organic. We need the certification."
 
-"You don't need goat's milk to be certified," the prick said. "Organic soy and mealworms will do fine."
+"You don't need goat milk to be certified," the prick said. "Organic soy and mealworms will do fine."
 
 "It's part of our brand. Mary's Small Batch Maidens is a premium product."
 
-"Mary's Small Batch Maidens is a bankrupt business," the prick said, waving the stack of papers around. "You can exceed industry norms in one dimension, maybe two. Build it into your brand, charge a little extra. But licensed childhood entertainment, _and_ goat's milk, _and_ a sixteen-year maturation? With all due respect, Mr. Miskewitz, your business is completely fucked."
+"Mary's Small Batch Maidens is a bankrupt business," the prick said, waving the stack of papers around. "You can exceed industry norms in one dimension, maybe two. Build it into your brand, charge a little extra. But licensed childhood entertainment, _and_ goat milk, _and_ a sixteen-year maturation? With all due respect, Mr. Miskewitz, your business is completely fucked."
 
 "Screw you," Tyler said. He didn't have an actual retort - truth be told, his business was indeed completely fucked. That's why he was sitting across from this Unimaiden finance prick in the first place. He sat in silence as the suited dickhead continued scanning the statement, chuckling and shaking his head.
 
 After fifteen uncomfortable minutes, the prick finally put down the stack of paper. "Well there's a ton of inadvisable costs," he said, "but I don't see anything illegal. Shall we tour the floor?"
 
 "Yes," Tyler said, eager to get out of his office. "Follow me."
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
 
 ## 2. The Floor
 
@@ -62,7 +56,7 @@ After fifteen uncomfortable minutes, the prick finally put down the stack of pap
 
 "He's from Unimaiden," Tyler said and nodded at the prick. "Our esteemed guest."
 
-"Of course," the security guard smiled. "You don't happen to have ID on you, do you?" he asked the esteemed guest.
+"Of course," the security guard smiled. "You don't happen to have ID on you?" he asked the esteemed guest.
 
 The security guard hummed a little as he copied the prick's ID number into the visitor log. He didn't seem too stressed - he'd probably already figured out that the warehouse would still need to be secured post-merger. Probably even more so. 
 
@@ -86,27 +80,27 @@ The prick burst out laughing. "Eight hundred individual wombs! You never heard o
 
 "Individual processing allows us to target each specimen's unique needs, ensuring optimal-"
 
-"Cut the marketing shit, Mr. Miskewitz. Foetesus don't have unique needs. Oxygen, carbon, vitamins and minerals, just like every other mammal. Let me guess, you could never afford the capital expenditure of upgrading to batch?"
+"Cut the marketing shit, Mr. Miskewitz. Fetuses don't have unique needs. Oxygen, carbon, vitamins and minerals, just like every other mammal. Let me guess, you could never afford the capital expenditure of upgrading to batch?"
 
 "We tune our folate supply according to the unique genetic makeup of-"
 
 "Yeah, yeah, whatever. We'll take care of it. Show me the nursery."
 
-Tyler bit his lip and led the prick past the mismatched racks of single wombs. They really had all been top-of-the-line - back when they were new. Now, that the oldest generations were long past their warranty periods and one of the main womb vendors had gone out of business, an increasing fraction of the equipment was held together with Flex-Seal and crossed fingers. Still - if it ain't broke, don't fix it.
+Tyler bit his lip and led the prick past the mismatched racks of single wombs. They really had all been top-of-the-line - back when they were new. Now that the oldest generations were long past their warranty periods and one of the main womb vendors had gone out of business, an increasing fraction of the equipment was held together with Flex-Seal and crossed fingers. Still - if it ain't broke...
 
-The delivery room was empty - still twelve weeks until Batch 46 was ready. Then it would be a madhouse for five days - the place would be crawling with temps, running back and forth, cracking open the eggs and hooking the bubs up. Gastric tube, catheter, poop chute, hearing aid, _Cocomelon_. Not complicated, but someone always managed to screw it up. Historical data indicated an expected 95% yield - 760 bubs for the nursery.
+The delivery room was empty - still twelve weeks until Batch 46 was ready. Then it would be a madhouse for five days - the place would be crawling with temps, running back and forth, cracking open the eggs and hooking the bubs up. Gastric tube, catheter, poop chute, _Cocomelon_. Not complicated, but someone always managed to screw it up. Historical data indicated an expected 95% yield - 760 bubs for the nursery.
 
 "Looks clean," remarked the prick. No other comments.
 
-The nursery was bustling. Batch 45 was in that awkward phase where some of them were starting to crawl, but others were content to lie on their backs all day, happily absorbing the hypnotic melodies and visuals of _Cocomelon_. Waste tubes had to come out of the crawlers, or they'd get tangled. Dozens of nurses in purple scrubs chased after the crawlers, keeping them from hurting themselves, changing their diapers, and pumping formula into their gastric tubes.
+The nursery was bustling. Batch 45 was in that awkward phase where some of them were starting to crawl, but others were content to lie on their backs all day, happily absorbing the hypnotic melodies and visuals of _Cocomelon_. Waste tubes had to come out of the crawlers, or they'd get tangled. Dozens of nurses in purple scrubs chased after the crawlers, keeping them from hurting themselves, changing their diapers, and pumping fortified goat milk into their gastric tubes.
 
 "They're differentiating," the prick remarked. "Looks labour intensive."
 
 Tyler nodded. "It's the most expensive stage in the process," he said. "But it's only for a few weeks."
 
-"Are these nurses temps?"
+"Are these nurses temp?"
 
-"No. The work is too specialized. We reallocate them from the other batches and just go light on supervision for a while."
+"No. The work is too specialized. We reallocate them from the other batches and just go light on supervision for a month."
 
 The prick shook his head. "You never studied process engineering, did you? This is where you should go continuous. Graduate the items immediately when they start crawling. Your single wombs could actually help here - if you spread out the load, you'd have constant resource demand instead of these insane spikes."
 
@@ -131,15 +125,12 @@ The prick nodded and moved on, striding into the nursery floor. Thank God he did
 Tyler shook his head. "23andme."
 
 The prick rolled his eyes and made a note in his notebook.
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
 
 ## 3. ISO 36363
 
 Tyler waved the prick goodbye and returned to his office, alone. He immediately logged on to the security system and re-enabled facial recognition.
 
-Fuck. The goddamn nurses were all over the place. Practically none were at their assigned stations. However the hell they'd picked their stations, it sure wasn't ISO 36363-compliant.
+Fuck. The nurses were all over the place. Practically none were at their assigned stations. However the hell they'd picked their stations, it sure wasn't ISO 36363-compliant.
 
 He got on the phone to the security company.
 
@@ -165,13 +156,13 @@ The din quieted down as the nurses presumably saw reason and went back to work. 
 
 "Nice to see you, Tyler," she replied.
 
-"Come on in." Tyler returned to his mesh-backed office chair.
+"Come on in." Tyler returned to his desk and sat down in his mesh-backed office chair.
 
 Rose entered his office and gently lowered her middle-aged frame into one of the guest chairs across from him.
 
 "How can I help?" he asked.
 
-She ignored him. "Why are all these security guards here?" she asked.
+She ignored him. "Why are all these security guards here?"
 
 Tyler sighed. "You know about the acquisition, right?"
 
@@ -179,11 +170,7 @@ Tyler sighed. "You know about the acquisition, right?"
 
 "Do you know what 'due diligence' means?"
 
-"Of course."
-
-"What does it mean?"
-
-"A bunch of paperwork for you," the aging nurse smiled. "But I don't see what it has to do with us."
+"It means a bunch of paperwork for you," the aging nurse smiled. "But I don't see what it has to do with us."
 
 "It means we have to demonstrate compliance with accepted industry standards, Rose."
 
@@ -211,17 +198,17 @@ Her eyes snapped open and locked onto his. "Fuck you, Tyler."
 
 Tyler was taken aback. The matronly old lady didn't seem like the type. "Your girls?" he asked.
 
-"Hayley and Elizabeth," she said. "They're in Batch 25."
+"Hayley and Elizabeth," she said. "They're in Batch 27."
 
 "Jesus fucking Christ, Rose. You named them?"
 
 "Everyone names them."
 
-"No way, Rose! You don't name them! You know that! Everyone knows that! ISO 36363!"
+"No way, Rose! You don't name them! Everyone knows that! ISO 36363!"
 
 The old nurse snarled and pushed herself out of her chair and onto her feet. "Damn you and your ISO 36363, Tyler!" she shouted, pointing across the desk at him. "We've all talked. If you don't give us all back our girls, we're going to unionize."
 
-The colour drained from Tyler's face. If anything could sink this deal faster than an ISO 36363 violation, it was a union. He took a deep breath. Tried to remember that negotiation class he'd taken, all those years ago. This wasn't the time to act rashly.
+The color drained from Tyler's face. If anything could sink this deal faster than an ISO 36363 violation, it was a union. He took a deep breath. Tried to remember that negotiation seminar he'd attended at that conference, all those years ago. This wasn't the time to act rashly.
 
 "Rose," he said. "Sit down. Do you know how screwed this business is?"
 
@@ -248,9 +235,6 @@ She looked down again and closed her eyes. She stood there in silence for ten lo
 The defeated old lady shuffled out his door.
 
 Tyler leaned back in his chair and breathed a sigh of relief. Fuck, what a day. Nurses. Hayley and Elizabeth. What next?
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
 
 ## 4. Finnigan's Roadhouse
 
@@ -270,7 +254,7 @@ _Crunch, crunch._ Tyler looked up from his phone as the sound of peanut shells b
 
 He put his phone down next to his plate so he could continue reading the news as he cut up his ribeye. He'd obsessively followed Unimaiden for the first few months after the close. They'd started the girls on hormones immediately. Dragged maturation down to twelve and sold off the older batches. Eventually, he couldn't bring himself to read any more updates and had turned to reading local gossip instead.
 
-Hm. Looked like someone had been murdered in the next suburb over. Single man, fifties, subjects at large. Much more interesting.
+Hm. Looked like someone had been murdered in the next suburb over. Single man, fifties, stabbed. Subjects at large. Much more interesting.
 
 _Crunch, crunch._ Ah, his Coors. Eyes glued to his phone, he reached over expectantly but his hand met nothing but air.
 
@@ -304,13 +288,13 @@ The girls nodded.
 
 "Elizabeth," said the blonde.
 
-Goddamn it, Rose. What had she done?
+Goddamn it, Rose. What have you done?
 
 "I don't know where she is," he said, scooting back along the bench to the diner wall. Where was that goddamn waitress with his Coors? "All employee data belongs to Unimaiden now."
 
 Elizabeth slid in closer, pushing the knife harder into his rib. "What a shame," she said. "Guess you're a dead end, then."
 
-Fuck this. He hadn't slaved his ass off for thirty years to become a 'dead end.'  "Wait!" he said, trying to conceal his desperation. "I have a backup!"
+Fuck this, she was insane. He hadn't slaved his ass off for thirty years to become a 'dead end.' "Wait!" he said, trying to conceal his desperation. "I have a backup!"
 
 "Where?" Hayley asked.
 
@@ -333,7 +317,4 @@ He looked down and saw the handle of his steak knife, protruding from his gut. H
 Fuck, that was a lot of blood. The world started to spin. He stumbled, fell to his knees, and collapsed.
 
 ISO goddamn 36363. He really should have enforced it. The workplace safety guys were always telling him, "regulations are written in blood." Now he knew what they meant.
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
 
