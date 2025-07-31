@@ -14,6 +14,9 @@ mainfont: "Times New Roman"
 \pagenumbering{gobble}
 \pagebreak
 \pagenumbering{arabic}
+<div style="page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
 
 ## 1. Due Diligence
 
@@ -48,6 +51,9 @@ Tyler felt himself getting hot. "It's organic. We need the certification."
 After fifteen uncomfortable minutes, the prick finally put down the stack of paper. "Well there's a ton of inadvisable costs, but I don't see anything illegal. Shall we tour the floor?"
 
 "Yes," Tyler said, eager to get out of his office. "Follow me."
+<div style="page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
 
 ## 2. The Floor
 
@@ -124,6 +130,9 @@ The prick nodded. "Regulations are written in blood." He moved on, striding onto
 Tyler shook his head. "23andme."
 
 The prick rolled his eyes and made a note in his notebook.
+<div style="page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
 
 ## 3. ISO 36363
 
@@ -233,7 +242,10 @@ She looked down again and closed her eyes. She stood there in silence for ten lo
 
 The defeated old lady shuffled out his door.
 
-Tyler leaned back in his chair and breathed a sigh of relief. Fuck, what a morning.
+Tyler leaned back in his chair and breathed a sigh of relief. Fuck, what a day. Nurses. Hayley and Elizabeth. What next?
+<div style="page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
 
 ## 4. Finnigan's Roadhouse
 
@@ -316,4 +328,7 @@ He looked down and saw the handle of his steak knife, protruding from his gut. H
 Fuck, that was a lot of blood. The world started to spin. He stumbled, fell to his knees, and collapsed.
 
 ISO goddamn 36363. Written in blood. Now he knew what the prick had meant.
+<div style="page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
 
