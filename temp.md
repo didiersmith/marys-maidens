@@ -14,15 +14,12 @@ mainfont: "Times New Roman"
 \pagenumbering{gobble}
 \pagebreak
 \pagenumbering{arabic}
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
 
 ## 1. Due Diligence
 
 "Entertainment, years zero to four. You use _Cocomelon_, right?"
 
-Tyler bit his lip. If he'd known the due diligence process would be such a pain in the ass, he'd never have considered the buyout.
+Tyler dug his fingernails into his arm. If he'd known the due diligence process would be such a pain in the ass, he'd never have considered the buyout.
 
 "Yes," he said. "It's incredibly soothing."
 
@@ -51,9 +48,6 @@ Tyler felt himself getting hot. "It's organic. We need the certification."
 After fifteen uncomfortable minutes, the prick finally put down the stack of paper. "Well there's a ton of inadvisable costs, but I don't see anything illegal. Shall we tour the floor?"
 
 "Yes," Tyler said, eager to get out of his office. "Follow me."
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
 
 ## 2. The Floor
 
@@ -91,7 +85,7 @@ The prick burst out laughing. "Eight hundred individual wombs! You never heard o
 
 "Yeah, yeah, whatever. We'll take care of it. Show me the nursery."
 
-Tyler bit his lip and led the prick past the mismatched racks of single wombs. They really had all been top-of-the-line - back when they were new. Now that the oldest generations were long past their warranty periods and one of the main womb vendors had gone out of business, an increasing fraction of the equipment was held together with Flex-Seal and crossed fingers. Still - if it ain't broke...
+Tyler swallowed his pride and led the prick past the mismatched racks of single wombs. They really had all been top-of-the-line - back when they were new. Now that the oldest generations were long past their warranty periods and one of the main womb vendors had gone out of business, an increasing fraction of the equipment was held together with Flex-Seal and crossed fingers. Still - if it ain't broke...
 
 The delivery room was empty - still twelve weeks until Batch 46 was ready. Then it would be a madhouse for five days - the place would be crawling with temps running back and forth, cracking open the eggs and hooking the bubs up. Gastric tube, catheter, poop chute, _Cocomelon_. Not complicated, but someone always managed to screw it up. Historical data indicated an expected 95% yield - 760 bubs for the nursery.
 
@@ -130,9 +124,6 @@ The prick nodded. "Regulations are written in blood." He moved on, striding onto
 Tyler shook his head. "23andme."
 
 The prick rolled his eyes and made a note in his notebook.
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
 
 ## 3. ISO 36363
 
@@ -243,9 +234,6 @@ She looked down again and closed her eyes. She stood there in silence for ten lo
 The defeated old lady shuffled out his door.
 
 Tyler leaned back in his chair and breathed a sigh of relief. Fuck, what a day. Nurses. Hayley and Elizabeth. What next?
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
 
 ## 4. Finnigan's Roadhouse
 
@@ -328,7 +316,4 @@ He looked down and saw the handle of his steak knife, protruding from his gut. H
 Fuck, that was a lot of blood. The world started to spin. He stumbled, fell to his knees, and collapsed.
 
 ISO goddamn 36363. Written in blood. Now he knew what the prick had meant.
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
 

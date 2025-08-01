@@ -34,7 +34,7 @@ The prick burst out laughing. "Eight hundred individual wombs! You never heard o
 
 "Yeah, yeah, whatever. We'll take care of it. Show me the nursery."
 
-Tyler bit his lip and led the prick past the mismatched racks of single wombs. They really had all been top-of-the-line - back when they were new. Now that the oldest generations were long past their warranty periods and one of the main womb vendors had gone out of business, an increasing fraction of the equipment was held together with Flex-Seal and crossed fingers. Still - if it ain't broke...
+Tyler swallowed his pride and led the prick past the mismatched racks of single wombs. They really had all been top-of-the-line - back when they were new. Now that the oldest generations were long past their warranty periods and one of the main womb vendors had gone out of business, an increasing fraction of the equipment was held together with Flex-Seal and crossed fingers. Still - if it ain't broke...
 
 The delivery room was empty - still twelve weeks until Batch 46 was ready. Then it would be a madhouse for five days - the place would be crawling with temps running back and forth, cracking open the eggs and hooking the bubs up. Gastric tube, catheter, poop chute, _Cocomelon_. Not complicated, but someone always managed to screw it up. Historical data indicated an expected 95% yield - 760 bubs for the nursery.
 

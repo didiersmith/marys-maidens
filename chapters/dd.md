@@ -2,7 +2,7 @@
 
 "Entertainment, years zero to four. You use _Cocomelon_, right?"
 
-Tyler bit his lip. If he'd known the due diligence process would be such a pain in the ass, he'd never have considered the buyout.
+Tyler dug his fingernails into his arm. If he'd known the due diligence process would be such a pain in the ass, he'd never have considered the buyout.
 
 "Yes," he said. "It's incredibly soothing."
 
